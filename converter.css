@@ -1,0 +1,32 @@
+.bg-image {
+    background-image: url("https://c1.wallpaperflare.com/preview/492/727/830/thermometer-temperature-measurement-health.jpg");
+    height: 700px;
+    background-size: cover;
+}
+
+.main-heading {
+    color: rgba(3, 30, 61, 0.963);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.para {
+    color: rgb(19, 1, 1);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: 500px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button {
+    border: 4px solid rgb(247, 28, 28);
+    color: white;
+    font-size: 50px;
+    font-family: "Roboto";
+}
